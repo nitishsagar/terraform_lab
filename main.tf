@@ -1,6 +1,6 @@
 provider "aws" {
   profile = "myaws"
-  region  = var.region
+  region  =  "ue-north-1"
   access_key = "AKIA337AOHX462XEAFQ6" 
   secret_key = "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"
 }
